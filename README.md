@@ -1,4 +1,4 @@
-# hello-world-npm
+# @Bruno-bot-stack.hello-world.npm
 
 This is a simple npm package that demonstrates the [GitHub Package Registry](https://github.com/features/package-registry).
 
